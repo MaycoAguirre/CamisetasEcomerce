@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>E-commerce de Camisetas</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+  <body>
+    <header>
+      <h1>E-commerce de Camisetas</h1>
+      <input type="text" id="search-input" placeholder="Buscar producto" />
+      <input type="number" id="min-price" placeholder="Precio mínimo" />
+      <input type="number" id="max-price" placeholder="Precio máximo" />
+      <label>
+        <input type="checkbox" id="stock-filter" />
+        Solo en stock
+      </label>
+      <button id="buscar">Buscar</button>
+      <button id="mostrar-carrito">Mostrar Carrito</button>
+      <button id="ocultar-carrito" style="display: none">
+        Ocultar Carrito
+      </button>
+    </header>
+    <div id="container" class="productos-container"></div>
+    <div id="carrito" class="carrito" style="display: none"></div>
+    <button id="finalizar-compra" style="display: none">
+      Finalizar Compra
+    </button>
+
+    <script src="javaScript/main.js" defer></script>
+  </body>
+</html>

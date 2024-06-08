@@ -1,0 +1,73 @@
+[
+    {
+      "nombre": "Instituto",
+      "precio": 120000,
+      "imagen": "https://acdn.mitiendanube.com/stores/001/167/350/products/camiseta-titular-iac-24-0101-1203-1-a-6a4e5b4f246b22fdbd17133022399074-640-0.webp",
+      "alt":"Instituto ACC, El unico Club de Córdoba",
+      "stock": true
+    },
+    {
+      "nombre": "Argentina '94 retro",
+      "precio": 130000,
+      "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f73c70a647b15c7c9c47d6eaed5849ab2e703da0881d986af2e81c694df0a21c18161.png",
+      "alt":"Seleccion Argentina '94",
+      "stock": true
+    },
+    {
+      "nombre": "Belgrano",
+      "precio": 65000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_803233-MLA69876499115_062023-O.webp",
+      "alt":"Belgrano de Córdoba",
+      "stock": true
+    },
+    {
+      "nombre": "Talleres",
+      "precio": 70000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_963771-MLA50772539689_072022-O.webp",
+      "alt":"Talleres de Córdoba",
+      "stock": false
+    },
+    {
+      "nombre": "Boca Juniors",
+      "precio": 100000,
+      "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/43b3d5dca79c4970ba7d510045536008_9366/Camiseta_Titular_Boca_Juniors_23-24_Azul_IV1922_01_laydown.jpg",
+      "alt":"Boca Juniors",
+      "stock": false
+    },
+    {
+      "nombre": "River Plate",
+      "precio": 100000,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BdoLRCALwCuGPus_fHO2SYqOcspjBatsLIh0jCyFbw&s",
+      "alt":"River Plate",
+      "stock": true
+    },
+    {
+      "nombre": "Independiente",
+      "precio": 85000,
+      "imagen": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/oxi31c60lh9ncsmj4dy2lsmboxhr/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
+      "alt":"Independiente de Avellaneda",
+      "stock": false
+    },
+    {
+      "nombre": "Racing",
+      "precio": 85000,
+      "imagen": "https://locademia.racingclub.com.ar/Image/0/600_600-K2351T5TWA-KA00T_camiseta_kombat_regular_con_AD_turquose_sea_talle_S_1.jpg",
+      "alt":"Racing Club",
+      "stock": true
+    },
+    {
+      "nombre": "Gimnasia de Jujuy",
+      "precio": 50000,
+      "imagen": "https://www.shopfutbol.com.ar/128-large_default/camiseta-gimnasia-de-jujuy-titular.jpg",
+      "alt":"Gimnasia y Esgrima de Jujuy",
+      "stock": true
+    },
+    {
+      "nombre": "San Lorenzo",
+      "precio": 95000,
+      "imagen": "https://afaar.vtexassets.com/arquivos/ids/156692-500-auto?v=638477749135930000&width=500&height=auto&aspect=true",
+      "alt":"San Lorenzo",
+      "stock": false
+    }
+  ]
+  
