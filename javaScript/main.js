@@ -169,7 +169,7 @@ function filtrarProductos() {
 }
 
 function finalizarCompra() {
-  window.location.href = "/finalizarCompra.html";
+  window.location.href = "/../finalizarCompra.html";
 }
 
 searchInput.addEventListener("input", filtrarProductos);
